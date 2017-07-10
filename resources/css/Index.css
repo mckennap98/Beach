@@ -1,0 +1,29 @@
+* {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+
+h2 {
+  color: DarkGreen;
+}
+
+h1 {
+  color: DarkGreen;
+}
+
+p, li {
+  font-size: 18px;
+}
+
+
+a {
+  text-decoration: none;
+}
+
+.beaches {
+color: Gold;
+}
+
+h3 {
+color: LightSalmon;
+}
